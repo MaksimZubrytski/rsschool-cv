@@ -8,6 +8,7 @@
     * HTML
     * CSS
     * JavaScript(basic)
+    * Preprocessor SCSS
 ## Code examples
 ```
 function sayHello() {  
