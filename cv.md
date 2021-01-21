@@ -18,5 +18,8 @@ function sayHello() {
     * [HTML, CSS](https://github.com/MaksimZubrytski/lesson_6)
     * [HTML, CSS, SCSS](https://github.com/MaksimZubrytski/TMS-final)
     * [Basic JavaScript](https://github.com/MaksimZubrytski/Todo-list)
+
+* Education
+    * I take TeachMeSkills courses
     
 My English level is A2
