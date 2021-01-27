@@ -1,0 +1,36 @@
+.wrapper {
+    width: 600px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    
+}
+
+img {
+    width: 600px;
+    height: 400px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+p {
+    font-size: 18px;
+}
+
+ul {
+    font-size: 18px;
+}
+
+pre {
+    background-color: #c9c9c9;
+    font-size: 18px;
+}
+
+footer {
+    text-align: center;
+}
+
+span {
+    font-size: 14px;
+}
