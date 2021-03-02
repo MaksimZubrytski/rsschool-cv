@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    background-color: aqua;
+}
+
+.wrapper {
+    width: 1200px;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+.header {
+    text-align: center;
+}
+
+img {
+    width: 600px;
+    height: 450px;
+    border-radius: 5px;
+}
+
+main {
+    display: flex;
+}
+
+aside {
+    width: 400px;
+    padding: 10px 20px;
+}
+
+.about {
+    padding: 10px 20px;
+}
+h3 {
+    font-size: 24px;
+}
+
+p {
+    font-size: 18px;
+}
+
+ul {
+    font-size: 18px;
+}
+
+pre {
+    background-color: #c9c9c9;
+    font-size: 18px;
+}
+
+footer {
+    text-align: center;
+}
+
+span {
+    font-size: 14px;
+}
